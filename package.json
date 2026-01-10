@@ -1,0 +1,31 @@
+{
+  "name": "utils-angular",
+  "version": "1.0.0",
+  "description": "some Node script to help me with Angular development, to use as a CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghita00/utils-angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ghita00/utils-angular/issues"
+  },
+  "homepage": "https://github.com/Ghita00/utils-angular#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.6",
+    "eslint": "^9.39.2",
+    "prettier": "^3.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
